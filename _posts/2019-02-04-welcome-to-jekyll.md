@@ -1,16 +1,23 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
+title:  "Hello World!"
+summary: "A quick Hello World page"
+author: Michael Lennon
+date: '2022-01-05 14:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
+permalink: /blog/hello-world/
 usemathjax: true
 ---
 
+Hello? Is this thing on?
+
+I'm keeping this default jekyll _posts message here to show that the site responds correctly to blog posts. As I fill up this page with blog posts that I write myself, I will delete this post.
+
+One other thing -- credit to Sujay Kundu for creating and maintaining this open source website template used here: developr-jekyll! It is a fantastic solution for developers looking to display their coding activity and accomplishments in a clean and concise manner. The 'Home' tab contains a link to the developr-jekyll repository -- take a look at the README if the template interests you.
+
+Anyways...
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

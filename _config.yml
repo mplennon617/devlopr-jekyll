@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Michael Lennon
+subtitle: Michael Lennon's personal website
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  This is Michael Lennon's personal website. Feel free to take a look around!
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,70 +16,69 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Shop    -- I don't have a shop yet! :(
+    #   url : /shop   -- TODO: Uncomment these two lines if we create a Shop.
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: portrait.jpeg
+author: Michael Lennon
+author_bio: I'm endlessly curious about the world of computer science, software engineering, and my role in both. Catch me designing websites, writing blog posts on this site, and participating in Hackathons. Feel free to take a look around!
+author_email: "mlennon@smu.edu"
+author_location: Katy, TX
+author_website_url: "https://mplennon.com"
+typewrite-text: Programmer. Designer. Hackathon Organizer. Among other things.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Tyler Technologies
+              company_logo: tyler.jpeg
+              company_url: https://www.tylertech.com/
+              designation: Software Developer Intern
+              description: Redesigned over 150 flows for QA Automation
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: smu.jpeg
+                college_name: SMU
+                college_url: https://www.smu.edu/
+                college_degree: Computer Science (2023)
+                description: Bachelor of Science
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: rapidrx-1.png
+                project_title: RapidRX
+                project_description: A platform to connect pharmacy customers to their prescriptions.
+                project_url: https://github.com/ConnerOzenne/Rapid-Rx
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: cord19.png
+                project_title: CORD-19 Search Engine
+                project_description: A search engine tool for processing queries on the CORD-19 Dataset.
+                project_url: https://github.com/SMUCSE2341/CS2341-SearchEngine-Micklerick617-sydneyireland24
+                visibility: true
+              - project_thumbnail: ttr.png
+                project_title: Ticket to Ride Replica
+                project_description: A complete and working replica of the Ticket to Ride Board Game.
+                project_url: https://github.com/mplennon617/TicketToRide
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: mplennon617
+github_username:  mplennon617
+facebook_username: michael.lennon.92317
+linkedin_username: michael-p-lennon
+#behance_username: johndoe
+instagram_username: mplennon617
+medium_username: mplennon617
+telegram_username: mplennon617
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -87,14 +86,14 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: mplennon617
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: https://mplennon617.us20.list-manage.com/subscribe/post?u=8496bda5bce1db29f720c0eb9&amp;id=9125f17ad4
 
 # contact form - (choose formspress or getform)
-getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+getform_endpoint: 0ac174e1-c7f7-4b82-9b93-b9607a1355b1
+formspree_email: mlennon@smu.edu
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
